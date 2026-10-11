@@ -1,7 +1,7 @@
 {
-  "name": "Smash Friends",
-  "short_name": "Smash Friends",
-  "description": "Juego de peleas tipo Smash con 12 personajes, 5 mapas y bots.",
+  "name": "Fight Friends",
+  "short_name": "Fight Friends",
+  "description": "Juego de peleas con 51 luchadores, 15 mapas, modo historia de 18 capítulos, VS local para 4 jugadores, bots, objetos y control de mando.",
   "start_url": "./",
   "scope": "./",
   "display": "fullscreen",

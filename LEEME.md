@@ -1,4 +1,4 @@
-# Smash Friends: paquete para publicar
+# Fight Friends: paquete para publicar
 
 Esta carpeta es el juego completo como página web. Solo hay que subirla a un servicio de hosting gratuito y te dará un link propio.
 
@@ -8,7 +8,7 @@ Esta carpeta es el juego completo como página web. Solo hay que subirla a un se
 
 ## Opción A: Netlify (la más rápida, sin cuenta de GitHub)
 1. Entra a https://app.netlify.com/drop (puede pedirte crear una cuenta gratis).
-2. Arrastra **la carpeta completa** `smash-friends-web` a la página.
+2. Arrastra **la carpeta completa** `fight-friends-web` a la página.
 3. En unos segundos te da un link tipo `https://algo.netlify.app`. Puedes cambiar el nombre en *Site settings → Change site name*.
 
 ## Opción B: GitHub Pages
@@ -26,7 +26,7 @@ Esta carpeta es el juego completo como página web. Solo hay que subirla a un se
 Juega siempre con el teléfono en horizontal.
 
 ## Cómo actualizar el juego
-Sube el nuevo `index.html` al mismo sitio. Para que los teléfonos descarguen la versión nueva, cambia el número de `VERSION` en `sw.js` (por ejemplo `smash-friends-v2`).
+Sube el nuevo `index.html` al mismo sitio. Para que los teléfonos descarguen la versión nueva, cambia el número de `VERSION` en `sw.js` (por ejemplo `fight-friends-v2`).
 
 ## Siguiente paso opcional: APK para Android
 Una vez que tengas tu link con HTTPS, puedes convertirlo en un APK con herramientas como PWABuilder (https://www.pwabuilder.com). Revisa su guía actual, porque los pasos cambian.
